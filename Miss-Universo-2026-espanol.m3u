@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal11.hn@SD" group-title="Miss Universo 2026",Canal 11 Honduras
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OPA.cr@SD" group-title="Miss Universo 2026",¡OPA! Canal 38 Costa Rica (720p)
+https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="OPA.cr@SD" group-title="Miss Universo 2026",¡OPA! Canal 38 Costa Rica (1080p, alternativa)
+https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
+#EXTINF:-1 tvg-id="TelemundoInternacional.us@South" group-title="Miss Universo 2026",Telemundo Internacional
+http://45.173.231.22:8000/play/a01h/index.m3u8
+#EXTINF:-1 tvg-id="TelemundoInternacional.us@CentralAmerica" group-title="Miss Universo 2026",Telemundo Internacional Centroamérica
+http://190.60.46.156:8089/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-id="Venevision.ve@SD" group-title="Miss Universo 2026",Venevisión Venezuela
+http://181.78.8.199:8000/play/a0if/index.m3u8
+#EXTINF:-1 tvg-id="Mega.cl@SD" group-title="Miss Universo 2026",Mega Chile
+http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="Mega2.cl@SD" group-title="Miss Universo 2026",Mega 2 Chile (lengua de señas)
+http://15.204.196.147:22880/MEGA2-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
